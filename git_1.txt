@@ -1,5 +1,6 @@
 1.gitの練習をするためのファイルです。
 2.基本的なワークフローを学びます。
 3.学習内容
-　・git add
+・git add
   ・git commit
+・git rm
